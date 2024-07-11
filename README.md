@@ -1,5 +1,5 @@
 # IRIS-FLOWER CLASSIFICATION (LOGISTIC REGRESSION)
-### The Iris Flower Classification project uses machine learning to predict Iris species based on petal and sepal measurements. It demonstrates practical applications of data science through Python, Pandas, Scikit-Learn, and Flask for web deployment.
+### The Iris Flower Classification project uses machine learning to predict Iris species based on petal and sepal measurements. It demonstrates practical applications of data science through Python, Pandas and Flask for web deployment.
 ## Dataset Columns:
 ### The Iris dataset, sourced from the UCI Machine Learning Repository, consists of 150 samples with 4 features, providing a rich and balanced dataset for species classification.
 ### a)Sepal Length(cm):The length of the sepal,the outermost part of the flower.
