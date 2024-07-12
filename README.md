@@ -10,7 +10,7 @@
 ## Logistic Regression:
 ### In the Iris Flower Classification project, logistic regression will predict Iris species by modeling the relationship between the dimensions of petals and sepals. This is one of the basic machine learning algorithms for doing binary classification tasks, like the prediction of species based on measures given.
 ![image](https://github.com/rakshita221103/iris_project/assets/173996537/e445acb5-c129-40f1-a6e6-a6c14fae0654)
-## Demo:
+## Project Demo:
 ![image](https://github.com/rakshita221103/iris_project/assets/173996537/af5e4d72-16b4-431c-b010-f5ddc8194e37)
 ### Input sepal and petal measurements:
 ![image](https://github.com/rakshita221103/iris_project/assets/173996537/16380d7d-a312-4ab7-9936-970bcb15a201)
