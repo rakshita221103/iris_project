@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <title>IRIS PROJECT BY RAKSHITA</title>
+     <style>
+      body {
+           background-color:#fff5;
+           background-image: url('https://cdn.glitch.global/aa334add-fe30-4302-90e9-60c5f9228920/aiml4.jpeg?v=1720102225661');
+           background-size: cover;
+           background-repeat: no-repeat;
+           background-attachment: fixed;
+           background-position: center;
+           fliter:blur(10px);
+          }
+       table{
+          position:relative;
+          top:10px;
+          width: 15%;
+          height: 20%;
+          #for_blur
+          background:transparent;
+          backdrop-filter: blur(20px);
+          border:2px solid black;
+          border-radius: 6px;
+          font-weight:20px;
+          color:#fff;
+          }
+    </style>
+</head>
+  
+  <body>
+    <h1 align="center" style="color:white;">
+     <u>IRIS-FLOWER CLASSIFICATION (LOGISTIC REGRESSION)</u>
+    </h1>
+  <br>
+  <center>
+  <form method="POST" action="/predict">
+  <table border="1">
+    <tr><td>Sepallength:</td><td><input name="sl" type="number" min="4" placeholder="Enter Sepal Length"></td></tr>
+    <tr><td>Sepalwidth:</td><td><input name="sw" type="number" min="2" placeholder="Enter Sepal Width"></td></tr>
+    <tr><td>Petallength:</td><td><input name="pl" type="number" min="1" placeholder="Enter Petal Length"></td></tr>
+    <tr><td>Petalwidth:</td><td><input name="pw" type="number" min="0" placeholder="Enter Petal Width"></td></tr>
+    <tr><td colspan="2" align="center"> <input type="submit" value="PREDICT"></td></tr>
+    <tr><td colspan="2" align="center"> 
+    <br>
+     {{result}}
+    <br><br></td></tr>
+  </table>
+  </form> 
+   <br>
+     <a href="home">
+    <h3 style="color:white;">
+     HOME PAGE
+       </h3>
+      </a>
+    </center>
+      
+  </body>
+</html>
+
+
+   
