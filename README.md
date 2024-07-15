@@ -8,7 +8,7 @@ The Iris Flower Classification project uses machine learning to predict Iris spe
 ## d) Petal Width:The width of the petal, helps distinguish between different species of Iris flowers.
 ## e) Species:Setosa,Versicolor,Virginica.
 
-# Logistic Regression:
+# Logistic Regression
 In the Iris Flower Classification project, logistic regression will predict Iris species by modeling the relationship between the dimensions of petals and sepals.
 
 ![image](https://github.com/user-attachments/assets/8f06e317-abc4-42f7-9059-ee0e45eebafe)
